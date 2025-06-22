@@ -200,3 +200,13 @@ Each **year**, the simulation processes:
 MIT License (You’re free to fork and expand — please link back if you release a game or story based on this world.)
 
 ---
+
+## 🖊️ How to Run
+
+1. copy the repo with "git copy"
+2. make sure you have installed numpy and opensimplex 
+3. execute main.py 
+4. run  python -m http.server 8000 in your local shell
+5. open http://localhost:8000/frontend/index.html in your browser
+
+---
